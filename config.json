@@ -1,0 +1,14 @@
+{
+    "log": "/home/jon/paccar-edi-in/processing/error/log/log.log",
+    "watch": "/mnt/cargofs/edi_in/",
+    "in_folder": "/mnt/cargofs/edi_in",
+    "air_folder": "/mnt/cargofs/AirJobs",
+    "out_folder": "/mnt/cargofs/edi_out",
+    "error_folder": "/mnt/cargofs/error",
+    "hsFailPath": "/mnt/cargofs/hsfail",
+    "temp": "/home/jon/paccar-edi-in/processing/temp",
+    "tomultifreight": "/mnt/entry_and_job",
+    "dbUser": "ace_api_s1",
+    "dbPass": "t0vdiot3g81vtd5v"
+    
+  }
